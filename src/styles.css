@@ -1,0 +1,37 @@
+.app {
+  background: #80be0d;
+  height: 88vh;
+  padding: 39px;
+}
+.center {
+  text-align: center;
+}
+.todo-list {
+  background: #d9ddcf;
+  border-radius: 4px;
+  max-width: 70%;
+  padding: 5px;
+  margin-left: 15%;
+}
+.heading {
+  font-size: 70px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todo {
+  align-items: center;
+  background: rgb(236, 218, 218);
+  border-radius: 4px;
+  border: 1px solid black;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+  display: flex;
+  font-size: 19px;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  padding: 13px 10px;
+}
+.input {
+  width: 60%;
+}
